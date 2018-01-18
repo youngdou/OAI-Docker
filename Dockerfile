@@ -1,1 +1,1 @@
-FROM luhan/oai-cn
+FROM luhan/oai-cn:v0.1
